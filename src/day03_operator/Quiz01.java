@@ -17,6 +17,7 @@ public class Quiz01 {
 		System.out.println("-------------------");
 		System.out.println("수 입력 : " + num);
 		
+		
 		String op = (num % 2 == 0)?"짝수" : "홀수";
 		System.out.println(num + " = " + op);
 		
