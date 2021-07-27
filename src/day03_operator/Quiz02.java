@@ -43,7 +43,8 @@ public class Quiz02 {
 		}
 		
 		if((num1 + num2)%2 == 0 && (num1 + num2) %3 == 0) {
-			System.out.println(num1 + ", " + num2 + "은 두 수의 합이 짝수이면서 3의 배수입니다.");
+			System.out.println(num1 + ", " 
+								+ num2 + "은 두 수의 합이 짝수이면서 3의 배수입니다.");
 		}
 		
 		
