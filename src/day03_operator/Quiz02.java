@@ -66,18 +66,7 @@ public class Quiz02 {
 		if(numb3 > numb1 && numb3 > numb2) {
 					System.out.println(numb3 + "이 가장 큰 수 입니다.");
 		}
-				
-		
 
-
-			
-
-		
-		
-		
-		
-//		
-		
 		
 		
 	}
