@@ -67,18 +67,7 @@ public class Quiz02 {
 					System.out.println(numb3 + "이 가장 큰 수 입니다.");
 		}
 				
-		
-
-
-			
-
-		
-		
-		
-		
-//		
-		
-		
+	
 		
 	}
 
