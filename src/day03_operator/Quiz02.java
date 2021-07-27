@@ -22,7 +22,7 @@ public class Quiz02 {
 			System.out.println("절대값: " + num);
 		} 
 		if(num < 0) {
-			System.out.println("절대값: " + Math.abs(num));
+			System.out.println("절대값: " + Math.abs(num)); //num * -1
 		}
 		System.out.println("-----------------");
 		System.out.println("숫자 2개 입력: ");
@@ -44,7 +44,7 @@ public class Quiz02 {
 		
 		if((num1 + num2)%2 == 0 && (num1 + num2) %3 == 0) {
 			System.out.println(num1 + ", " 
-								+ num2 + "은 두 수의 합이 짝수이면서 3의 배수입니다.");
+					 + num2 + "은 두 수의 합이 짝수이면서 3의 배수입니다.");
 		}
 		
 		
@@ -60,11 +60,11 @@ public class Quiz02 {
 
 			
 		if(numb2 > numb1 && numb2 > numb3) {
-				System.out.println(numb2 + "이 가장 큰 수 입니다.");
+			System.out.println(numb2 + "이 가장 큰 수 입니다.");
 		}
 			
 		if(numb3 > numb1 && numb3 > numb2) {
-					System.out.println(numb3 + "이 가장 큰 수 입니다.");
+			System.out.println(numb3 + "이 가장 큰 수 입니다.");
 		}
 				
 	
